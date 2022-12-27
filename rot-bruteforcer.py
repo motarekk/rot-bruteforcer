@@ -71,5 +71,3 @@ def decipher(key, cipher_text):
 for i in range(1, 26):
     print(str(i) + ":", end=" ")
     print(decipher(i, cipher_text_arr))
-
-#----------------------------------------------#
