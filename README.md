@@ -2,7 +2,7 @@
 Caesar/ROT Cipher Brute-Forcer
 
 Weaknesses Exploited:
-- Small key size
+- Small key size (1-25)
 - Lack of diffusion
 (Diffusion: changes in one character in the plain-text affect multiple characters in the cipher-text)
 
