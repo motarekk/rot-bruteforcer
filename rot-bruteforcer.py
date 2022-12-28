@@ -30,7 +30,7 @@ def decipher(key, cipher_text):
     << Example >>
     key = 3
     len(alphabet) = 26
-    shiftedArr = [4-26, 0-3]
+    shiftedArr = [4-25, 0-3]
     '''
 
     shifted_alphabet = [''] * len(alphabet)
